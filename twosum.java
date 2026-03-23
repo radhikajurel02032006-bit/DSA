@@ -24,6 +24,6 @@ public class twosum {
             }
         }
 
-        System.out.println("No solution");
+        System.out.println("No solution"):
     }
 }
